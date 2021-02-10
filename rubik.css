@@ -13,8 +13,9 @@ body{
   height: 170px;
 }
 
-h1{
-  margin: 40px 0px 100px 175px;
+h2{
+  margin: 40px 0px 100px 40px;
+  display: inline-block;
 }
 
 p{
